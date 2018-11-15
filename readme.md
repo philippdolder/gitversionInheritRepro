@@ -1,1 +1,1 @@
-Expected version on master is 1.1
+Expected version on feature is 1.2.0-test
